@@ -1,0 +1,8 @@
+<template>
+    <p>Magic, which encompasses the subgenres of illusion, stage magic, and close up magic, among others, is a performing art in which audiences are entertained by tricks, effects, or illusions of seemingly impossible feats, using natural means.[1][2] It is to be distinguished from paranormal magic which are effects claimed to be created through supernatural means. It is one of the oldest performing arts in the world.</p>
+</template>
+<script>
+export default {
+    name: 'info'
+}
+</script>
